@@ -1,5 +1,6 @@
 #include <string>
 #include <bitset>
+#include <cstring>
 
 #include "core/CPU.h"
 
